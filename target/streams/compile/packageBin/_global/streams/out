@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\chaos-game_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet\Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet\Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet\Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet\Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet\Complex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet\Complex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet\Tupel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet\Tupel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet\Window$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet\Window$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotSet\Window.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Felix\Desktop\Projects\Chaos-Game\target\scala-2.13\classes\MandelbrotSet\Window.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
